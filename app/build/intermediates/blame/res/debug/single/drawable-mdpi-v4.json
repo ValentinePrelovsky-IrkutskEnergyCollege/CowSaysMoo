@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cat.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\cat.png"
+    },
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dog.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\dog.png"
+    },
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\duck.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\duck.png"
+    },
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sheep.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\sheep.png"
+    },
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chicken.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\chicken.png"
+    },
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Helps\\CowMoo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cow.png",
+        "source": "C:\\Helps\\CowMoo\\app\\src\\main\\res\\drawable-mdpi\\cow.png"
+    }
+]
